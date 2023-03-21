@@ -1,3 +1,3 @@
-<Olga>  <Łopacka>
-<12c>
-<s28088>
+Olga  Łopacka
+12c
+s28088
