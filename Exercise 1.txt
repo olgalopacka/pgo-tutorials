@@ -1,0 +1,5 @@
+Klasy: Person, Address, Student, Professor
+
+Atrybuty: Name:string, Surname:string, Age:int, Street:string, State: string, Postal Code: string, Country: string, Salary: float, Student Number: long, Average Mark: float
+
+Metody: IntroduceYourself(): string, Validate(): string, Output As Label(): string, Is Eligible To Enroll():boolean, Get Seminars Taken(): string
